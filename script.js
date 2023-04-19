@@ -3,7 +3,7 @@ function validateForm() {
    let password=document.getElementById("password").value;
       if ( name == "barby" && password == "172") {
         alert("usuario y contraseña validos");
-        window.open('valentines.html');
+        window.open('valentine.html');
       } else  {
         alert("intenta de nuevo");
       }
